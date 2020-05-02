@@ -66,6 +66,8 @@ def oneyearpass():
     cursor.execute("Update infobook set class = ?",(ny))
     connection.commit()
 
-
+def update():
+    print("This function will be implemented")
+    
 
 
