@@ -67,6 +67,7 @@ def oneyearpass():
     connection.commit()
 
 def update():
+    # Please implement a function that updates student information
     print("This function will be implemented")
     
 
